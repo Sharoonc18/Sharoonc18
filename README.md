@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sharoonc18
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...data science
+- 👋 Hi, I’m @Sharoon
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sharoon18c@gmail.com
 - 😄 Pronouns: ...he/him
